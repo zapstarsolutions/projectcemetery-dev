@@ -6,7 +6,11 @@ First of all, our condolences to your project. I know you had the best of intent
 
 You can easily bury your own project to this cemetery. You just need to add a file and create a pull request.
 
-Use this template. Only the title and description are required. Copy and paste this when creating that new file.
+Create the new file by clicking this link: https://github.com/zapstarsolutions/projectcemetery-dev/new/main/projects
+
+Please name the file using only alphanumeric characters and hyphens. The extension should be `.md`.
+
+And then use this template. Only the title and description are required. Copy and paste this when creating that new file.
 
 ```
 ---
